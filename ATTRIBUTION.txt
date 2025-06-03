@@ -1,0 +1,3 @@
+AWS Lambda Node.js 22.x Base Image
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Licensed under the Apache License, Version 2.0 (the 'License').
